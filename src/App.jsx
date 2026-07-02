@@ -1,7 +1,7 @@
-import Home from "./Components/Home"
+import Home from "./Components/Home/Home"
 import Footer from "./Components/Footer"
 import Navbar from "./Components/Navbar"
-import Login from "./Components/Login/Login"
+import Login from "./Components/SignUp/SignUp"
 
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 
